@@ -71,8 +71,8 @@ Para rodar este projeto, você precisará ter Python e PostgreSQL instalados em 
     Você tem duas opções para criar o banco de dados e as tabelas:
 
     * **Opção A: Usando o script Python (Recomendado)**
-        Este script Python irá criar (ou recriar, apagando dados antigos) o banco de dados `db_aiqfome` e todas as tabelas.
-        No terminal (com o ambiente virtual ativado), digite:
+        Este script Python irá criar o banco de dados `db_aiqfome` e todas as tabelas.
+        No terminal, na pasta raiz do projeto e com o ambiente virtual ativado, digite:
         ```bash
         python setup_db.py
         ```
