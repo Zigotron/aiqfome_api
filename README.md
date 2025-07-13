@@ -4,7 +4,7 @@ Este projeto é uma API feita em Python com FastAPI para gerenciar clientes e su
 
 ## Como Rodar o Projeto
 
-Para rodar este projeto, você precisará ter Python e PostgreSQL instalados em sua máquina.
+Para executar este projeto, é necessário ter o Python instalado em sua máquina e acesso a um servidor de banco de dados PostgreSQL online.
 
 1.  **Pré-requisitos:**
     * Tenha o **Python 3.11** (ou mais novo) instalado.
