@@ -38,12 +38,10 @@ Para rodar este projeto, você precisará ter Python e PostgreSQL instalados em 
             EXPIRA_EM_MINUTOS = 30
 
             ```
-            
-            Substitua `SEU_USUARIO` e `SUA_SENHA` pelo nome de usuário e a senha que você utiliza no seu PostgreSQL.  
+            Na variável `URL_SERVIDOR_DADOS`, substitua `SEU_USUARIO` e `SUA_SENHA` pelo nome de usuário e a senha que você utiliza no seu PostgreSQL.  
             Esse usuário precisa ter permissão para executar comandos DDL (como criar tabelas).
 
-            Se o banco estiver em outro servidor, substitua `localhost` pelo IP ou hostname do servidor PostgreSQL remoto.
-
+            Se o banco estiver hospedado em outro servidor, substitua `localhost` pelo IP ou hostname do servidor PostgreSQL remoto.
 
             As outras configurações não precisam ser editadas. 
 
