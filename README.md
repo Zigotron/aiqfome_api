@@ -26,7 +26,7 @@ Para rodar este projeto, você precisará ter Python e PostgreSQL instalados em 
 
             ```
             # dados do banco de dados 
-            URL_SERVIDOR_DADOS = "postgresql://SEU_USUARIOs:SUA_SENHA@localhost:5432/"
+            URL_SERVIDOR_DADOS = "postgresql://SEU_USUARIO:SUA_SENHA@localhost:5432/"
             NOME_BANCO_DADOS = "db_aiqfome"
 
             # url da api externa de produtos 
