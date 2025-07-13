@@ -110,6 +110,11 @@ O banco de dados é modelado para evitar redundância e otimizar os relacionamen
 
 ## Como Usar a API
 
+No terminal, na pasta raiz do projeto, execute o comando para iniciar a API.
+
+```bash
+uvicorn app.main:app --port 8000
+```
 Após iniciar a API, você pode interagir com ela através da documentação interativa (Swagger UI) disponível em `http://localhost:8000/docs`.
 
 ### Autenticação e Autorização (POC)
