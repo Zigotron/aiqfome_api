@@ -100,7 +100,7 @@ Para rodar este projeto, você precisará ter Python e PostgreSQL instalados em 
 
 ## Estrutura do Banco de Dados
 
-O banco de dados é modelado para evitar redundância e otimizar os relacionamentos. Temos três tabelas principais: `clientes`, `produtos` e `favoritos`.
+O banco de dados é modelado para evitar redundância e otimizar os relacionamentos. Existem três tabelas principais: `clientes`, `produtos` e `favoritos`.
 
 ![Diagrama das Tabelas do Banco de Dados](imgs/diagrama.png)
 
