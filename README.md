@@ -165,7 +165,7 @@ Para esta Prova de Conceito (POC), a API possui um sistema de autenticação sim
 
             ![1](imgs/auth_botao.png)
 
-        * No campo "Value", digite `Bearer <SEU_TOKEN_AQUI>` (substitua `<SEU_TOKEN_AQUI>` pelo token copiado).
+        * No campo "Value", cole o token copiado do `access_token`.
 
             ![2](imgs/auth_pop.png)
 
