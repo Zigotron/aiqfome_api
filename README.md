@@ -14,8 +14,8 @@ Para rodar este projeto, você precisará ter Python e PostgreSQL instalados em 
     * Se for um arquivo ZIP, descompacte-o.
     * Se for do Git, clone o repositório:
         ```bash
-        git clone <URL_DO_SEU_REPOSITORIO>
-        cd <nome_da_pasta_do_projeto>
+        git clone https://github.com/Zigotron/aiqfome_api.git
+        cd aiqfome_api  # Acesse a pasta clonada
         ```
 
 3.  **Configure as Informações:**
