@@ -133,7 +133,7 @@ Para esta Prova de Conceito (POC), a API possui um sistema de autenticação sim
 4.  **Usar os Outros Endpoints** conforme a role do usuário.
 5.  Você pode trocar de usuário no `usuarios.json` e refazer o login para testar diferentes roles.
 
-### Endpoints da API (Ordem de Execução Sugerida)
+### Endpoints da API
 
 #### 1. Checar Status da API
 
@@ -147,7 +147,7 @@ Para esta Prova de Conceito (POC), a API possui um sistema de autenticação sim
 
 * **Nome:** Login
 * **Verbo HTTP:** `POST`
-* **Resumo:** Autentica um usuário e retorna um token de acesso.
+* **Resumo:** Autentica o usuário e retorna um token de acesso para ter permissao de utilizar a API.
 * **Instrução de Uso:**
     1.  No Swagger UI, expanda o endpoint `POST /auth/login`.
     2.  Clique em "Try it out".
